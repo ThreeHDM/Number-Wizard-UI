@@ -132,7 +132,7 @@ GameObject:
   - component: {fileID: 204441190}
   - component: {fileID: 204441189}
   m_Layer: 0
-  m_Name: First Scene Loader
+  m_Name: Start Scene Loader
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
